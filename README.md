@@ -1,4 +1,4 @@
-# 📡 ESP32 2.4GHz Signal Disruptor
+# 📡 ESP32 2.4GHz WiFi and Bluetooth Jammer
 
 This is a powerful and portable RF disruptor built using the ESP32. It blasts out continuous interference across the 2.4 GHz band, using either sweeping or hopping channel modes. It's controlled by a physical toggle switch and optimized for high-output jamming.
 
